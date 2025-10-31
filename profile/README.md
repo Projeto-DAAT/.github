@@ -1,7 +1,7 @@
 # 🚀 Projetos de Desenvolvimento e Apoio Tecnológico
 ## Gerenciamento: Professor Ronaldo Amaral (IFFluminense)
 
-Bem-vindo(a) ao espaço de gestão dos projetos de **Bolsa de Desenvolvimento Acadêmico e Apoio Tecnológico** do **Instituto Federal Fluminense (IFFluminense)**, sob a coordenação e gerenciamento do **Professor Ronaldo Amaral**.
+Bem-vindo(a) ao espaço de gestão dos projetos de **Bolsa de Desenvolvimento Acadêmico e Apoio Tecnológico** do **Instituto Federal Fluminense (IFFluminense campus Campos Centro)**, sob a coordenação e gerenciamento do **Professor Ronaldo Amaral**.
 
 Esta organização no GitHub serve como o hub de desenvolvimento e acompanhamento de todos os projetos de tecnologia e inovação supervisionados diretamente pelo Prof. Ronaldo Amaral.
 
